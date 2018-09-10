@@ -2,5 +2,5 @@
     <string name="app_name">Personal_Quiz</string>
     <string name="true_button">True</string>
     <string name="false_button">False</string>
-    <string name="question_text">Qifan has A GirlFriend?</string>
+    <string name="question_text">Qifan has GirlFriend?</string>
 </resources>
